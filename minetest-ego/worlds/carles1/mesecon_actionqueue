@@ -1,0 +1,1 @@
+return {{["time"] = 0.37600001506507, ["pos"] = {["y"] = 3, ["x"] = -105, ["z"] = -17}, ["priority"] = 0, ["func"] = "cooldown", ["params"] = {}}, {["time"] = 0.37600001506507, ["pos"] = {["y"] = 3, ["x"] = -105, ["z"] = -17}, ["func"] = "lc_interrupt", ["priority"] = 1, ["owcheck"] = "tic", ["params"] = {16927, "tic"}}}

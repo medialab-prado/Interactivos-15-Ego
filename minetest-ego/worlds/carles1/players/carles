@@ -1,31 +1,31 @@
 breath = 11
 hp = 20
 name = carles
-pitch = 25.09
-position = (-714.63,15,313.8)
+pitch = 19.1
+position = (-1025.2,25,-187.07)
 version = 1
-yaw = 37.39
+yaw = -291.19
 PlayerArgsEnd
 List main 32
 Width 0
 Item default:mese
-Item default:nyancat
-Item default:nyancat_rainbow
+Item fire:basic_flame
+Item mesecons_powerplant:power_plant
 Item default:sand
+Item mesecons_commandblock:commandblock_off
+Item mesecons_luacontroller:luacontroller0000
+Item mesecons_button:button_off
+Item mesecons_extrawires:vertical_off
+Item default:nyancat_rainbow
+Item default:nyancat
+Item default:dirt
+Item default:tree
 Empty
 Empty
 Empty
 Empty
 Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
-Empty
+Item fire:basic_flame
 Empty
 Empty
 Empty

@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = carles
+pitch = 25.09
+position = (-714.63,15,313.8)
+version = 1
+yaw = 37.39
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:mese
+Item default:nyancat
+Item default:nyancat_rainbow
+Item default:sand
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:mese
+Item default:mese
+Item default:mese
+Item default:mese
+Item default:mese
+Item default:mese
+Item default:mese
+Item default:mese
+Item default:mese
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

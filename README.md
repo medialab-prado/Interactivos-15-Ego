@@ -53,6 +53,7 @@ How to:
 
 5- install luarocks in order to install: if debian; sudo apt-get install luarocks
 then install lua curl: luarocks install Lua-cURL
+to install lua on macs use homebrew brew update then brew install lua
 
 5.1- Download LuaCmd mod and install it.
 http://wiki.minetest.net/Mods/LuaCmd

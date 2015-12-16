@@ -40,7 +40,7 @@ Compiling on GNU/Linux:
 1- Install dependencies. Here's an example for Debian/Ubuntu:
 $ sudo apt-get install build-essential libirrlicht-dev cmake libbz2-dev libpng12-dev libjpeg-dev libxxf86vm-dev libgl1-mesa-dev libsqlite3-dev libogg-dev libvorbis-dev libopenal-dev libcurl4-gnutls-dev libfreetype6-dev zlib1g-dev libgmp-dev libjsoncpp-dev
 
-2- You can install git for easily keeping your copy up to date.
+2- You can install git for easy keeping your copy up to date.
 If you dont want git, read below on how to get the source without git.
 This is an example for installing git on Debian/Ubuntu:
 $ sudo apt-get install git-core
@@ -61,4 +61,4 @@ http://wiki.minetest.net/Mods/LuaCmd
 5.2- Download cURL mod and install it.
 https://github.com/Lua-cURL/Lua-cURLv3
 
-7- ...
+7- you need to grant user rights on the server....(careful this is risky the user will have access to server command...) get the command dialog box bytyping y- then typein /grant <player> all 

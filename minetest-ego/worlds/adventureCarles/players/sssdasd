@@ -1,0 +1,116 @@
+breath = 11
+hp = 20
+name = sssdasd
+pitch = 0
+position = (30,5,670)
+version = 1
+yaw = 0
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stick 6
+Item default:torch 25
+Item default:tree 3
+Item default:axe_steel
+Item books_plus:booklocked
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List 1 1
+Width 0
+Empty
+EndInventoryList
+List 2 1
+Width 0
+Empty
+EndInventoryList
+List 4 1
+Width 0
+Empty
+EndInventoryList
+List 64 1
+Width 0
+Empty
+EndInventoryList
+List 8 1
+Width 0
+Empty
+EndInventoryList
+List 32 1
+Width 0
+Empty
+EndInventoryList
+List 128 1
+Width 0
+Empty
+EndInventoryList
+List 16 1
+Width 0
+Empty
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_torso 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+List armor_shield 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

@@ -51,12 +51,8 @@ git clone https://github.com/medialab-prado/Interactivos-15-Ego
 4- Optional Download menesecons mod and install it.
 How to:
 
-5- install luarocks in order to install:
-
-5.1- Download LuaCmd mod and install it.
+5- Download LuaCmd mod and install it.
 http://wiki.minetest.net/Mods/LuaCmd
 
-5.2- Download cURL mod and install it.
+6- Download menesecons mod and install it.
 https://github.com/Lua-cURL/Lua-cURLv3
-
-7- ...

@@ -1,0 +1,38 @@
+He conseguido descargar datos del API de Smart Citizen utilizando la
+librería Lua-cURL. Esta librería llama a cURL, que funciona sin problemas
+con SSL. El repositorio está disponible en:
+https://github.com/Lua-cURL/Lua-cURLv3
+
+Para instalarlo he usado luarocks:
+
+luarocks install Lua-cURL
+
+He utilizado este script para descargar una serie de datos temporales de
+smart citizen:
+
+local cURL = require "cURL"
+
+-- open output file
+
+f = io.open("smartcitydata.txt", "w")
+
+cURL.easy{
+  url = "
+https://api.smartcitizen.me/v0/devices/1616/readings?sensor_id=4&rollup=1d&from=2015-07-23&to=2015-07-30
+",
+  writefunction = f
+}
+
+:perform()
+:close()
+
+-- close output file
+f:close()
+
+Los datos los guarda en el fichero smartcitydata.txt
+
+Estoy viendo cómo interpretar los datos en JSON. Te voy comentando.
+
+Saludos
+César
+

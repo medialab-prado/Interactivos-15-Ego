@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = Carles
+pitch = -68.49
+position = (-214.91,-15,-708.34)
+version = 1
+yaw = 154.98
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Item mesecons_lightstone:lightstone_yellow_off
+Item mesecons_luacontroller:luacontroller0000
+Item mesecons_torch:mesecon_torch_on
+Item fire:basic_flame
+Item default:sand
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

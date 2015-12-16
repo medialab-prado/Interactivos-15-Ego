@@ -1,0 +1,4 @@
+-- Exec from Minetest Lua Command:
+/lua dofile("getTemperatureLua.lua")
+-- This will load the script inside myLua folder and comeback to the root folder ( minetest-ego )
+-- NEXT parse data in LUA way!

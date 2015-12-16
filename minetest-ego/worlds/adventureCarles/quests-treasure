@@ -1,0 +1,1 @@
+return {["completed"] = false, ["marker"] = "default:bronzeblock", ["pos"] = {["y"] = 0, ["x"] = -16966, ["z"] = -9496}, ["quest_start"] = 1450221339, ["do_on_generate"] = true}

@@ -33,3 +33,5 @@ load_mod_mesecons_stickyblocks = true
 load_mod_mesecons_switch = true
 load_mod_mesecons_torch = true
 load_mod_mesecons_walllever = true
+load_mod_minetest-mod-luacmd-1.2 = false
+load_mod_luacmd = true

@@ -1,14 +1,14 @@
 breath = 11
 hp = 20
 name = singleplayer
-pitch = 27.09
+pitch = -22.04
 position = (-715.65,15,323.89)
 version = 1
-yaw = -105.98
+yaw = -50.92
 PlayerArgsEnd
 List main 32
 Width 0
-Empty
+Item mesecons_commandblock:commandblock_off
 Empty
 Empty
 Empty
